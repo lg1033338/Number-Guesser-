@@ -1,0 +1,28 @@
+// Create a bool so whole game repeats
+// Difficulty selection
+// Print out Easy difficulty with the numbers you have to guess around
+// Print out Medium difficulty with the numbers you have to guess around
+// Print out Hard difficulty with the numbers you have to guess around
+// Create a new int for us to put the int = "max number depending on diffculty"
+//Switch statment for what thing they pick
+// Set max number to 10
+// Print out saying they picked easy
+// Set max number to 50
+// Print out they picked medium
+// Set max number to 100
+// Print out they picked hard
+// Default if they chose nothing to 10 max number
+// Print out that they chose nothing and its going easy
+// Generate a random secret number between 1 and maxNumber
+// Tell the player the range of possible numbers
+// Start guessing loop
+// Ask player for their guess
+// Check if the guess is too low
+// Check if the guess is too high
+// If not too high or too low, the player guessed correctly
+// Keep looping until player guesses correctly
+// Play again?
+// Set playAgain to true if response is "Y", otherwise false
+// Add a blank line for spacing
+// Repeat entire game if player wants to play again
+// End of program message

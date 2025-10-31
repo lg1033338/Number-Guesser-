@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\bin\Debug\net8.0\Number Guessing Game.exe
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\bin\Debug\net8.0\Number Guessing Game.deps.json
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\bin\Debug\net8.0\Number Guessing Game.runtimeconfig.json
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\bin\Debug\net8.0\Number Guessing Game.dll
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\bin\Debug\net8.0\Number Guessing Game.pdb
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.AssemblyInfo.cs
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.dll
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\obj\Debug\net8.0\refint\Number Guessing Game.dll
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.pdb
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.genruntimeconfig.cache
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Number Guessing Game\obj\Debug\net8.0\ref\Number Guessing Game.dll
